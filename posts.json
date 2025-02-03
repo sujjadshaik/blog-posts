@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "tech/nextjs",
+      "title": "Building Modern Web Apps with Next.js 14",
+      "date": "2024-03-15",
+      "category": "tech",
+      "tags": ["nextjs", "react", "web-development"],
+      "emoji": "💻",
+      "excerpt": "Exploring the latest features and best practices in Next.js 14",
+      "url": "https://raw.githubusercontent.com/sujjadshaik/blog-posts/main/tech/nextjs.md"
+    },
+    {
+      "id": "tech/typescript",
+      "title": "Understanding TypeScript Generics",
+      "date": "2024-03-10",
+      "category": "tech",
+      "tags": ["typescript", "javascript", "programming"],
+      "emoji": "🔧",
+      "excerpt": "Deep dive into TypeScript's powerful generic types",
+      "url": "https://raw.githubusercontent.com/sujjadshaik/blog-posts/main/tech/typescript.md"
+    }
+  ],
+  "categories": {
+    "tech": {
+      "name": "Technology",
+      "description": "Articles about web development, programming, and tech",
+      "emoji": "💻"
+    },
+    "personal": {
+      "name": "Personal",
+      "description": "Personal thoughts and experiences",
+      "emoji": "✨"
+    }
+  }
+}
