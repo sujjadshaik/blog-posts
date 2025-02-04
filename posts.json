@@ -24,12 +24,12 @@
     },
     {
       "id": "tech/awesome_prompts",
-      "title": "Awesome deepseek & chatgot prompts",
+      "title": "Awesome deepseek & chatgpt prompts",
       "date": "2025-02-02",
       "category": "tech",
       "tags": ["gpt","prompt","deep-seek","gemini","awesome"],
       "emoji": "💻",
-      "excerpt": "Awesome deepseek & chatgot prompts",
+      "excerpt": "Awesome deepseek & chatgpt prompts",
       "url": "https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/refs/heads/main/README.md",
       "image": "https://raw.githubusercontent.com/sujjadshaik/blog-posts/refs/heads/main/pics/default.webp"
     }
