@@ -1,36 +1,14 @@
 {
   "posts": [
     {
-      "id": "tech/nextjs",
-      "title": "Building Modern Web Apps with Next.js 14",
-      "date": "2024-03-15",
+      "id": "tech/top_10_web_design_inspirations_2025",
+      "title": "Top 10 Websites for Web Design Inspiration (2025)",
+      "date": "2025-04-02",
       "category": "tech",
-      "tags": ["nextjs", "react", "web-development"],
+      "tags": ["web", "design", "2025","inspiration"],
       "emoji": "💻",
-      "excerpt": "Exploring the latest features and best practices in Next.js 14",
-      "url": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V3/refs/heads/main/README.md",
-      "image": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg"
-    },
-    {
-      "id": "tech/typescript",
-      "title": "Understanding TypeScript Generics",
-      "date": "2024-03-10",
-      "category": "tech",
-      "tags": ["typescript", "javascript", "programming"],
-      "emoji": "🔧",
-      "excerpt": "Deep dive into TypeScript's powerful generic types",
-      "url": "https://raw.githubusercontent.com/is-a-dev/register/refs/heads/main/README.md",
-      "image": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg"
-    },
-    {
-      "id": "tech/typescript_new",
-      "title": "Understanding TypeScript Generics",
-      "date": "2024-03-10",
-      "category": "tech",
-      "tags": ["typescript", "javascript", "programming"],
-      "emoji": "🔧",
-      "excerpt": "Deep dive into TypeScript's powerful generic types",
-      "url": "https://raw.githubusercontent.com/is-a-dev/register/refs/heads/main/README.md",
+      "excerpt": "Top 10 Websites for Web Design Inspiration (2025)",
+      "url": "https://raw.githubusercontent.com/sujjadshaik/blog-posts/refs/heads/main/posts/tech/top_10_web_design_inspirations_2025.md",
       "image": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg"
     }
   ],
