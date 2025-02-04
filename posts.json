@@ -32,6 +32,17 @@
       "excerpt": "Deep dive into TypeScript's powerful generic types",
       "url": "https://raw.githubusercontent.com/is-a-dev/register/refs/heads/main/README.md",
       "image": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg"
+    },
+    {
+      "id": "tech/typescript_new2",
+      "title": "Understanding TypeScript Generics",
+      "date": "2024-06-10",
+      "category": "tech",
+      "tags": ["typescript", "javascript", "programming"],
+      "emoji": "🔧",
+      "excerpt": "Deep dive into TypeScript's powerful generic types",
+      "url": "https://raw.githubusercontent.com/is-a-dev/register/refs/heads/main/README.md",
+      "image": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg"
     }
   ],
   "categories": {
